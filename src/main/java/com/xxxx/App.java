@@ -10,7 +10,7 @@ public class App
     {
         System.out.println( "Hello World!" );
         System.out.println( "测试提交数据到云端" );
-        System.out.println( "测试提交数据到云端2" );
+        SYstem.out.println(" 测试数据");
 
     }
 }
